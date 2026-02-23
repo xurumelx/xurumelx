@@ -24,6 +24,13 @@
 
 <div align="center">
 
+## 💗 connect with me
+
+[![Instagram](https://img.shields.io/badge/Instagram-ff69b4?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/nataly_oenning)
+[![Gmail](https://img.shields.io/badge/Gmail-ff69b4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:natalyoenningrosa05@gmail.com)
+
+</div>
+
 💌 Obrigada por visitar meu perfil!  
 Volte sempre 🎀✨  
 
