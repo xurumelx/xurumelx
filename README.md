@@ -1,16 +1,30 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**xurumelx/xurumelx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# ✨ Oii, eu sou a Naty 🎀💕
 
-Here are some ideas to get you started:
+🌸 20 anos  
+🎓 Estudante de ADS & Engenharia de Software  
+💻 Apaixonada por tecnologia, jogos, gatos e energético 🐱⚡🎮🌸  
+📍 Paraná, Brasil  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3Q5M2p6a3p1b3B5b2h5d3R3b3J2c3ZkZzJxY2V2aGk0eHk1dCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0MYt5jPR6QX5pnqM/giphy.gif" width="150"/>
+
+</div>
+
+---
+
+## 🌷 Tecnologias que estou estudando
+
+💻 Java  
+🌸 Lógica de Programação  
+📚 Estruturas de Dados  
+🛠 Git & GitHub  
+
+---
+
+<div align="center">
+
+💌 Obrigada por visitar meu perfil!  
+Volte sempre 🎀✨  
+
+</div>
