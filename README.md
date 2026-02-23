@@ -11,6 +11,12 @@
 
 </div>
 
+## 💕 tech stack
+
+![Java](https://img.shields.io/badge/Java-ffb6c1?style=for-the-badge&logo=openjdk&logoColor=black)
+![Git](https://img.shields.io/badge/Git-ffb6c1?style=for-the-badge&logo=git&logoColor=black)
+![GitHub](https://img.shields.io/badge/GitHub-ffb6c1?style=for-the-badge&logo=github&logoColor=black)
+
 ---
 
 ## 🌷 Tecnologias que estou estudando
